@@ -1,15 +1,15 @@
 {
-  "name": "idavoll/flatly-theme",
+  "name": "denisgold/flatly-theme",
   "type": "asgard-theme",
-  "description": "An AsgardCMS Flatly bootswatch theme",
+  "description": "AsgardCMS Flatly bootswatch theme by Denis Stoliarchuk",
   "keywords": [
     "asgard-cms"
   ],
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "info@asgardcms.com",
+      "name": "Denis Stoliarchuk",
+      "email": "dartius@mail.ru",
       "role": "Developer"
     }
   ],
